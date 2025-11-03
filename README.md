@@ -2,7 +2,7 @@
 
 一个类似 GitHub Pages 的静态网站托管系统，基于 PHP 和 SQLite 构建，提供简单、快速、免费的静态网站托管服务。
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-AGPLv3-blue.svg)
 ![PHP](https://img.shields.io/badge/PHP-8.0%2B-purple.svg)
 ![SQLite](https://img.shields.io/badge/SQLite-3.x-green.svg)
 
